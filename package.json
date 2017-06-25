@@ -1,0 +1,22 @@
+{
+  "name": "callback-promise",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "babel-node --presets es2015 some-promise.js"
+  },
+  "description": "callback vs promise",
+  "author": "AV",
+  "contributors": [],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-es2015": "6.24.1"
+  },
+  "main": "some-promise.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "readmeFilename": "README.md"
+}
